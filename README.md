@@ -50,8 +50,8 @@ In this project, you should continue with the development of the Math Magicians 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+[you can see the live demo through this link]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ To clone this repository to your desired folder, follow the steps below:
 
 - Follow the steps below
 
-  - Visit this link "https://github.com/djo1975/mathMagicians"
+  - Visit this link "https://github.com/kazaneza/math-magicians"
   - Click the green button labelled "code"
   - Select the "Open with GitHub Desktop" option
   - After the GitHub Desktop add opens, click the "clone repo" button
@@ -101,18 +101,18 @@ To run the project, execute the following command:
 
 You can deploy this project by:
 
-- visiting your repository on [GitHub](https://github.com/djo1975/mathMagicians)
+- visiting your repository on [GitHub](https://github.com/kazaneza/math-magicians)
 - Click on settings
 - Go to the "Pages" option
 - Select the main branch and save
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 👤 **Mladan**
+👤 👤 **Kazaneza**
 
-- GitHub: [@djo1975](https://github.com/djo1975)
-- Twitter: [@MladanIlic](https://twitter.com/MladanIlic)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mladan-ilic-0528a2256/)
+- GitHub: [@kazaneza](https://github.com/kazaneza)
+- Twitter: [@kazaneza](https://twitter.com/kazaneza)
+- LinkedIn: [kazaneza](https://www.linkedin.com/in/gentil-kazaneza/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
