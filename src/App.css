@@ -48,7 +48,7 @@ body {
   grid-column: span 2;
 }
 
-#qoute-box{
+#qoute-box {
   display: flex;
   align-items: center;
   justify-content: center;
