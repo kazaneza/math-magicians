@@ -6,6 +6,7 @@ function Quotes() {
   const [hasError, setHasError] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
+  const apiKey = 'zWbFdXe3BQWrlhFsnImSAw==HEDkeSdVW05kaUH7';
   useEffect(() => {
     const fetchQuotes = async () => {
       setIsLoading(true);
@@ -15,7 +16,7 @@ function Quotes() {
           {
             method: 'GET',
             headers: {
-              'X-API-Key': 'API_KEY',
+              'X-API-Key': apiKey,
             },
           },
         );
