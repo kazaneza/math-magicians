@@ -46,6 +46,7 @@ In this project, you should continue with the development of the Math Magicians 
 - **Calculate operations**
 
   - The website that calculates some mathmathical operations
+  - Display a random quote
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
