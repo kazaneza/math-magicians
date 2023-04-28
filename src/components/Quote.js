@@ -49,8 +49,8 @@ function Quotes() {
   }
 
   return (
-    <section>
-      <div id="quote-box">
+    <section id="quote">
+      <div id="qoute-box">
         {data.map((item) => (
           <blockquote key={data.indexOf(item)} className="blockquote">
             <p className="quote">
